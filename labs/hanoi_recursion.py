@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 def hanoi(number, start, finish):
     """Рекурсивная реализация решения Ханойских башен.
     number - количество колец.
@@ -21,4 +15,3 @@ def hanoi(number, start, finish):
 
 number = int (input("Введите количество колец: "))
 hanoi(number, 1, 3)
-
