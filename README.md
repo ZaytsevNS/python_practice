@@ -13,3 +13,4 @@
 ![Time](https://github.com/ZaytsevNS/python_practice/blob/main/labs/sort_time.jpg)
 
 4. [Fibonacci](https://github.com/ZaytsevNS/python_practice/blob/main/labs/fibonacci.py)
+5. [Hanoi Recursion](https://github.com/ZaytsevNS/python_practice/blob/main/labs/hanoi_recursion.py)
