@@ -11,3 +11,9 @@
 **Время выполнения сортировок (сравнение):**
 
 ![Time](https://github.com/ZaytsevNS/python_practice/blob/main/labs/sort_time.jpg)
+
+
+1. ol
+  1. ol
+    1. ol
+      1. ol
