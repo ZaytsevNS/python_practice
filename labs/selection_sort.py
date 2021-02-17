@@ -15,7 +15,3 @@ def selectionSort(arr):
     return newArr
 array = [4,5,2,1,5,8,9,4,2,6,8,4,2,1,6,9,0,5,42,1,4,5523,4234,65767,2423,1332,677889,84453,56]
 print (selectionSort(array))
-
-
-
-
