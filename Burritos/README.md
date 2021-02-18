@@ -9,6 +9,6 @@ For practice I did:
 - found number of restaurants by location (top-10);
 - plotted boxplot and subplot for Cost.
 
-**[Here source file (csv)]()**
+**[Here source file (csv)](https://github.com/ZaytsevNS/python_practice/blob/main/Burritos/burritos.csv)**
 
-**[Here my Jupyter Notebook]()**
+**[Here my Jupyter Notebook](https://github.com/ZaytsevNS/python_practice/blob/main/Burritos/burritos.ipynb)**
