@@ -14,3 +14,4 @@
 
 4. [Fibonacci](https://github.com/ZaytsevNS/python_practice/blob/main/labs/fibonacci.py)
 5. [Hanoi Recursion](https://github.com/ZaytsevNS/python_practice/blob/main/labs/hanoi_recursion.py)
+6. [Burritos in San Diego (from kaggle)](https://github.com/ZaytsevNS/python_practice/blob/main/Burritos/README.md#burritos-in-san-diego)
