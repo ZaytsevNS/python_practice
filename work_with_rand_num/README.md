@@ -12,3 +12,6 @@ This CGI script works with random numbers and you can:
 2) Go to your web browser and type in the search field: **http://localhost:8000/**
 3) Enter your name, select the required numerical values and options and click to button 'Показать результаты'.
 If you want to clear the form click to button 'Очистить форму'.
+
+**Start Page**:
+![StartPage](https://github.com/ZaytsevNS/python_practice/blob/main/work_with_rand_num/start_page.jpg)
