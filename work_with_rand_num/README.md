@@ -9,3 +9,4 @@ This CGI script works with random numbers and you can:
 
 ## How to run this app?
 1) Run file **[server.py](https://github.com/ZaytsevNS/python_practice/blob/main/work_with_rand_num/server.py)**
+2) Go to your web browser and type in the search field: **[http://localhost:8000/]**
