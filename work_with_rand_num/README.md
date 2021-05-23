@@ -2,4 +2,4 @@
 
 This CGI script works with random numbers.
 
-#How to run this app?
+# How to run this app?
