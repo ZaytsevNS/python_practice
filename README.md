@@ -15,4 +15,4 @@
 4. [Fibonacci](https://github.com/ZaytsevNS/python_practice/blob/main/labs/fibonacci.py)
 5. [Hanoi Recursion](https://github.com/ZaytsevNS/python_practice/blob/main/labs/hanoi_recursion.py)
 6. [Burritos in San Diego (from kaggle)](https://github.com/ZaytsevNS/python_practice/blob/main/Burritos/README.md#burritos-in-san-diego)
-7. [CGI web application - Work with random numbers](https://github.com/ZaytsevNS/python_practice/blob/main/work_with_rand_num/README.md)
+7. [CGI web application - Work with random numbers](https://github.com/ZaytsevNS/python_practice/blob/main/work_with_rand_num/README.md) | [FLASK version](https://github.com/ZaytsevNS/flask_random_num#readme)
