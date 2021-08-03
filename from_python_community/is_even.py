@@ -12,22 +12,18 @@ from math import sqrt
 
 
 def is_even(n):
-    if n == -1:
-        return False
-    if sqrt(abs(n)) == int(sqrt(abs(n))):
-        return True
-    else: return False
+    return True if str(bin(n))[-1] == '0' else False
     
 class TestIsEven(unittest.TestCase):
     def test_one(self):
         """ Should return True """
         self.assertEqual(True, is_even(-4))
+        self.assertEqual(True, is_even(168))
         self.assertEqual(True, is_even(0))
         
     def test_two(self):
         """ Should return False """
         self.assertEqual(False, is_even(5))
-        self.assertEqual(False, is_even(2.2))
         self.assertEqual(False, is_even(-3))
         self.assertEqual(False, is_even(-1))
         
