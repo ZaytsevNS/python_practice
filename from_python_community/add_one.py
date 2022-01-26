@@ -5,5 +5,5 @@
 def add_one(num: list) -> list:
     return [int(i) for i in str(int(''.join(map(str, num))) + 1)]
 
-num = [1,2,3,4,5]
+num = [1,2,3,4,5,6]
 print(add_one(num))
