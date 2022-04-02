@@ -16,7 +16,7 @@
 5. [Hanoi Recursion](https://github.com/ZaytsevNS/python_practice/blob/main/labs/hanoi_recursion.py)
 6. [Burritos in San Diego (from kaggle)](https://github.com/ZaytsevNS/python_practice/blob/main/Burritos/README.md#burritos-in-san-diego)
 7. [CGI web application - Work with random numbers](https://github.com/ZaytsevNS/python_practice/blob/main/work_with_rand_num/README.md) | [FLASK version](https://github.com/ZaytsevNS/flask_random_num#readme)
-8. [MPI in python]():
+8. [MPI in python](https://github.com/ZaytsevNS/python_practice/blob/main/labs/mpi_py.py):
     - Install a MPI application from Microsoft (https://www.microsoft.com/en-us/download/details.aspx?id=57467)
     - Install mpi4py ``` pip install mpi4py ```
-    - Execute my script by opening a terminal, navigating to the directory containing the script, and executing the command (mpiexec -n 3 python lab1.py)
+    - Execute my script by opening a terminal, navigating to the directory containing the script, and executing the command (mpiexec -n 3 python mpi_py.py)
