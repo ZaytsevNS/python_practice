@@ -20,3 +20,4 @@
     - Install a MPI application from Microsoft (https://www.microsoft.com/en-us/download/details.aspx?id=57467)
     - Install mpi4py ``` pip install mpi4py ```
     - Execute my script by opening a terminal, navigating to the directory containing the script, and executing the command (mpiexec -n 3 python mpi_py.py)
+9. [Experience with thread](https://github.com/ZaytsevNS/python_practice/blob/main/labs/thread_py.py)
