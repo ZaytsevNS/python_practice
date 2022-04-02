@@ -17,6 +17,6 @@
 6. [Burritos in San Diego (from kaggle)](https://github.com/ZaytsevNS/python_practice/blob/main/Burritos/README.md#burritos-in-san-diego)
 7. [CGI web application - Work with random numbers](https://github.com/ZaytsevNS/python_practice/blob/main/work_with_rand_num/README.md) | [FLASK version](https://github.com/ZaytsevNS/flask_random_num#readme)
 8. [MPI in python]():
-    1) .
-    2) .
-    3) .
+    - .
+    - .
+    - .
